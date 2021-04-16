@@ -3,7 +3,7 @@ cffi==1.8.2
 colorama==0.3.7
 cryptography==1.5
 Django==1.10.2
-django-debug-toolbar==1.6
+django-debug-toolbar==1.11.1
 edgegrid-python==1.0.10
 idna==2.1
 lazy-object-proxy==1.2.2
